@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "ju+rYvUpS4AT/DqE61xX018E4Ckh2/VJvkT1zPqBfSg=",
+  "Source": "designAutomationSample",
+  "BasePath": "_content/designAutomationSample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "designAutomationSample\\wwwroot",
+      "Source": "designAutomationSample",
+      "ContentRoot": "C:\\Users\\kasey\\OneDrive\\Desktop\\designAutomationSample\\wwwroot\\",
+      "BasePath": "_content/designAutomationSample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kasey\\OneDrive\\Desktop\\designAutomationSample\\wwwroot\\index.html",
+      "SourceId": "designAutomationSample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kasey\\OneDrive\\Desktop\\designAutomationSample\\wwwroot\\",
+      "BasePath": "_content/designAutomationSample",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\kasey\\OneDrive\\Desktop\\designAutomationSample\\wwwroot\\js\\ApsDesignAutomation.js",
+      "SourceId": "designAutomationSample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kasey\\OneDrive\\Desktop\\designAutomationSample\\wwwroot\\",
+      "BasePath": "_content/designAutomationSample",
+      "RelativePath": "js/ApsDesignAutomation.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ApsDesignAutomation.js"
+    }
+  ]
+}
