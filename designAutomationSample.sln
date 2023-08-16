@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "designAutomationSample", "designAutomationSample.csproj", "{3E35817A-E377-4315-9594-571F09ABC2E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "designAutomationSample", "designAutomationSample.csproj", "{3E35817A-E377-4315-9594-571F09ABC2E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateIPTParam", "..\..\..\source\repos\UpdateIPTParam\UpdateIPTParam.csproj", "{DA263F7E-AC7B-45EA-A44C-D57498384790}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3E35817A-E377-4315-9594-571F09ABC2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E35817A-E377-4315-9594-571F09ABC2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E35817A-E377-4315-9594-571F09ABC2E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA263F7E-AC7B-45EA-A44C-D57498384790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA263F7E-AC7B-45EA-A44C-D57498384790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA263F7E-AC7B-45EA-A44C-D57498384790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA263F7E-AC7B-45EA-A44C-D57498384790}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
