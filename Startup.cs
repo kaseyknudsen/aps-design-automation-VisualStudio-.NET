@@ -19,6 +19,12 @@ namespace designAutomationSample
         {
             app.UseFileServer();
             app.UseMvc();
+            app.UseRouting();
+app.UseEndpoints(routes =>
+{
+    routes.MapHub<Controllers.DesignAutomationHub>("/api/signalr/designautomation");
+});
+
         }
     }
 }
